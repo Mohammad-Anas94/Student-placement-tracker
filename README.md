@@ -293,6 +293,4 @@ B.Tech — CSE (AI & ML)
 
 ---
 
-## 📜 License
 
-This project is created for **educational and portfolio purposes**.
